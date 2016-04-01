@@ -1,0 +1,28 @@
+name: Basement Bits
+favicon: null
+layout_spectrum: 0.14387811976484954
+typography_spectrum: 0.30789058515802026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.05444430001080036
+  lightness: 0.6984785504173487
+  saturation: 0.4483520765788853
+  rhythmicContrast: 0.9246151593979448
+purpose: []
