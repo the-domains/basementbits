@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Basement Bits]]></title>
+        <description><![CDATA[Basement Bits]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 05:52:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello, this is Basement Bits</p>]]></description>
+            <link>undefinedhello-this-is-basement-bits/index.html</link>
+            <guid isPermaLink="false">30bd381b-0244-49bd-8ca2-2c8ce7c5a8fb</guid>
+            <pubDate>Fri, 01 Apr 2016 05:51:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
